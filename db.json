@@ -1,6 +1,3 @@
 {
-  "users": [
-    { "id": 1, "name": "Shimrah" },
-    { "id": 2, "name": "Ahmed" }
-  ]
+  "users": []
 }
